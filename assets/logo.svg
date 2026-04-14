@@ -1,5 +1,10 @@
 <svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="50" cy="50" r="48" fill="#D91E18"/>
-  <path d="M50 12L53 28L63 24L60 35L75 35L68 45L85 50L78 60L90 70L71 75L75 86L61 83L57 93L50 89L43 93L39 83L25 86L29 75L10 70L22 60L15 50L32 45L25 35L40 35L37 24L47 28L50 12Z" stroke="white" stroke-width="3" stroke-linejoin="round" fill="none"/>
-  <path d="M50 89V95" stroke="white" stroke-width="4" stroke-linecap="round"/>
+  <!-- Solid Red Circle -->
+  <circle cx="50" cy="50" r="50" fill="#D91E18"/>
+  
+  <!-- High-Precision Solid White Maple Leaf (Organic Proportions) -->
+  <path d="M50 15C50 15 51.5 26.5 53 30.5L62 27.5L59 38L74 38L69 48.5L85 53L79 63L93 70L74 75.5L78 88L62 84.5L58 94.5L50 90L42 94.5L38 84.5L22 88L26 75.5L7 70L21 63L15 53L31 48.5L26 38L41 38L38 27.5L47 30.5C48.5 26.5 50 15 50 15Z" fill="white"/>
+  
+  <!-- Curved organic stem base -->
+  <path d="M50 88C50 88 50 95 47 96" stroke="white" stroke-width="4" stroke-linecap="round"/>
 </svg>
