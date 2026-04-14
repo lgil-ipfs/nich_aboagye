@@ -204,6 +204,11 @@ h3 { font-size: 2rem; margin-bottom: 1rem; }
     font-size: 1.25rem;
 }
 
+.logo-icon {
+    height: 36px;
+    width: auto;
+}
+
 .logo-text {
     font-family: var(--font-heading);
 }
